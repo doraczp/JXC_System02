@@ -1,0 +1,3 @@
+CZP£»123456£»stockManager
+CZP02£»123456£»salesman£»false
+CZP03£»123456£»account£»false
